@@ -8,6 +8,7 @@
   
 <h3>:sparkles:Tech Stack:sparkles:</h3>
 
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-CC624?style=flat-square&logo=linux&logoColor=white"/>
