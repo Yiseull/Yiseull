@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=2&height=300&section=header&text=WELCOME&desc=Yiseul's%20GitHub%20Profile&fontSize=90&descSize=30&descAlign=70&descAlignY=70&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=1,2,4,5,6,7,8,9,10,11,12,13&height=300&section=header&text=WELCOME&desc=Yiseul's%20GitHub%20Profile&fontSize=90&descSize=30&descAlign=70&descAlignY=70&animation=fadeIn)
 <div align=center>
 <h3>Introduction</h3>
 :wave:Hi! I'm Junior Back-end developer.<br>
