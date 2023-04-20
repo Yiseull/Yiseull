@@ -8,7 +8,7 @@
 
 + Backend: <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 
-[![Yiseull's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yiseull&theme=default)](https://github.com/Yiseull/github-readme-stats)
+[![Yiseull's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yiseull&theme=vue)](https://github.com/Yiseull/github-readme-stats)
 
 
 [![Solved.ac
