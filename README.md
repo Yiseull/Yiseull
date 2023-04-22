@@ -4,9 +4,9 @@
 
 ### SKILLS
 
-+ Language: <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c++&logoColor=white"/> 
++ Language: <img src="https://img.shields.io/badge/JAVA-F89820?style=flat&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c++&logoColor=white"/> 
 
-+ Backend: <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
++ Backend: <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/JPA-000000?style=flat&logo=jpa&logoColor=white"/> <img src="https://img.shields.io/badge/RESTful API-A100FF?style=flat&logo=restful api&logoColor=white"/>
 
 [![Yiseull's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yiseull&theme=default)](https://github.com/Yiseull/github-readme-stats)
 
