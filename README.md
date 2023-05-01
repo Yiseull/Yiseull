@@ -1,4 +1,4 @@
-### Hi! I'm Back-end Developer ❤️
+### Hi! I'm Back-end Developer 🖤
 
 안녕하세요! 백엔드 개발자 박이슬(Suling) 입니다.
 
