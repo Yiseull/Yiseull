@@ -8,6 +8,8 @@
 
 + Backend: <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/JPA-000000?style=flat-square&logo=jpa&logoColor=white"/> <img src="https://img.shields.io/badge/RESTful API-A100FF?style=flat-square&logo=restful api&logoColor=white"/>
 
++ Frontend: <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+
 [![Yiseull's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yiseull)](https://github.com/Yiseull/github-readme-stats)
 
 [![Solved.ac
