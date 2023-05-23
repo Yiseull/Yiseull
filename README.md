@@ -10,7 +10,7 @@
   
 <!--   안녕하세요! 백엔드 개발자 박이슬(Suling) 입니다. -->
   
-  <a href="https://velog.io/@yiseull/about"><img src="https://img.shields.io/badge/yiseul.log-3DDC84?style=for-the-badge&logo=Velog&logoColor=white"/></a>
+  <a href="https://velog.io/@yiseull"><img src="https://img.shields.io/badge/yiseul.log-3DDC84?style=for-the-badge&logo=Velog&logoColor=white"/></a>
   
 <!-- ### Hi! I'm Back-end Developer 🖤
 
