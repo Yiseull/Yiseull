@@ -6,23 +6,13 @@
   
   ## 🍒 Yiseul 🍒
  
-  Hi! I'm Back-end Developer 🖤
-  
-<!--   안녕하세요! 백엔드 개발자 박이슬(Suling) 입니다. 
-  
-  <a href="https://velog.io/@yiseull"><img src="https://img.shields.io/badge/yiseul.log-3DDC84?style=for-the-badge&logo=Velog&logoColor=white"/></a>
-  -->
-<!-- ### Hi! I'm Back-end Developer 🖤
+  Hi! I'm Back-end Developer 👋
 
-안녕하세요! 백엔드 개발자 박이슬(Suling) 입니다.
+  안녕하세요! 백엔드 개발자 박이슬입니다.
 
-## SKILLS
+  ### Blog
 
-+ Language: <img src="https://img.shields.io/badge/JAVA-F89820?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c++&logoColor=white"/> 
-
-+ Backend: <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/JPA-000000?style=flat-square&logo=jpa&logoColor=white"/> <img src="https://img.shields.io/badge/RESTful API-A100FF?style=flat-square&logo=restful api&logoColor=white"/>
-
-+ Frontend: <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> -->
+  <a href="[https://velog.io/@yiseull](https://yiseull.tistory.com/)"><img src="https://img.shields.io/badge/yiseul.log-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
   
 <!-- </div>
 
@@ -30,22 +20,27 @@
   
 <!--   <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=omjl5123"/> -->
   
-  ### SKILLS
-
-  <img src="https://img.shields.io/badge/JAVA-F89820?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c++&logoColor=white"/> 
-
-  <img src="https://img.shields.io/badge/GRADLE-02303A?style=for-the-badge&logo=gradle&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/JPA-000000?style=for-the-badge&logo=jpa&logoColor=white"/> <img src="https://img.shields.io/badge/RESTful API-A100FF?style=for-the-badge&logo=restful api&logoColor=white"/>
-
-<!--   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> -->
+  ### Skills
   
-<!-- [![Yiseull's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yiseull)](https://github.com/Yiseull/github-readme-stats) -->
+  ![Java](https://img.shields.io/badge/java17-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/spring_boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+  ![Spring Security](https://img.shields.io/badge/spring_security-6DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white)
 
-<!-- [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=omjl5123)](https://solved.ac/omjl5123) -->
+  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+  ![QueryDSL](https://img.shields.io/badge/QueryDSL-1C9AD6?style=for-the-badge&logo=querydsl&logoColor=white)
 
-<!-- [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=omjl5123)](https://solved.ac/omjl5123) -->
+  ![Junit 5](https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+  ![Spring Rest docs](https://img.shields.io/badge/Spring_Rest_Docs-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
 
-<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com) -->
+  ### Tools
+ 
+  ![Zira](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+  ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
+  ![Github](https://img.shields.io/badge/Github-181717.svg?style=for-the-badge&logo=Github&logoColor=white)
+  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+  
 
 </div>
