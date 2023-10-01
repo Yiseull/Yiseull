@@ -12,7 +12,7 @@
 
   ### Blog
 
-  <a href="[https://velog.io/@yiseull](https://yiseull.tistory.com/)"><img src="https://img.shields.io/badge/yiseul.log-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
+  <a href="https://yiseull.tistory.com"><img src="https://img.shields.io/badge/yiseul.log-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
   
 <!-- </div>
 
