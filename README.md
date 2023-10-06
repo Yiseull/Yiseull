@@ -1,9 +1,7 @@
 <div align="">
   
 <!--   <img align="right" width="350px" src="https://github-readme-stats.vercel.app/api?username=Yiseull"/> -->
-  
-  <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=omjl5123"/>
-  
+
   ## 🍒 Yiseul 🍒
  
   Hi! I'm Back-end Developer 👋
