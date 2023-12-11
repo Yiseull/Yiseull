@@ -3,10 +3,6 @@
 <!--   <img align="right" width="350px" src="https://github-readme-stats.vercel.app/api?username=Yiseull"/> -->
 
   ## 🍒 Yiseul 🍒
- 
-  Hi! I'm Back-end Developer 👋
-
-  안녕하세요! 백엔드 개발자 박이슬입니다.
 
   ### Blog
 
