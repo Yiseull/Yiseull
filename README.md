@@ -24,6 +24,7 @@
   ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
   ![QueryDSL](https://img.shields.io/badge/QueryDSL-1C9AD6?style=for-the-badge&logo=querydsl&logoColor=white)
+  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
   ![Junit 5](https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
   ![Spring Rest docs](https://img.shields.io/badge/Spring_Rest_Docs-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
