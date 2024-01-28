@@ -2,7 +2,7 @@
 
   # Yiseul Park
 
-  <a href="https://yiseull.tistory.com"><img src="https://img.shields.io/badge/yiseul.log-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
+  <a href="https://yiseull.tistory.com"><img src="https://img.shields.io/badge/yiseul.log-FF6384?style=flat-square&logo=Tistory&logoColor=white"/></a>
   
   <br/>  
   
