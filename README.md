@@ -11,4 +11,5 @@
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/QueryDSL-1C9AD6?style=flat-square&logo=querydsl&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/></a>
 </div>
