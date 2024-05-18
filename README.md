@@ -11,5 +11,5 @@
 - MySQL, Spring Data JPA, Querydsl, Redis
 
 ## 교육
-- 프로그래머스 백엔드 데브코스 4기 (2023.06 ~ 2023.12) [활동 내역](https://github.com/Yiseull/devcourse-archive) [회고록](https://yiseull.tistory.com/29)
+- 프로그래머스 백엔드 데브코스 4기 (2023.06 ~ 2023.12) [회고록](https://yiseull.tistory.com/29) [활동 내역](https://github.com/Yiseull/devcourse-archive)
 - 가톨릭대학교 컴퓨터정보공학부 (2019.03 ~ 2024.02)
