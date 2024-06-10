@@ -6,6 +6,9 @@
 - [[트러블슈팅] MySQL 네임드락으로 동시성 이슈 해결하기
 ](https://yiseull.tistory.com/33)
 
+## 경력
+- 여기어때컴퍼니 (2024.06 ~ 재직 중)
+
 ## 스킬
 - Java, Spring Boot
 - MySQL, Spring Data JPA, Querydsl, Redis
